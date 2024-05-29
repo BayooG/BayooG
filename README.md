@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with over 5 yea
 
 ## Connect with Me
 
-- 📧 Email: [obaydaba96@gmail.com](mailto:obaydaba96@gmail.com)
+- 📧 [Email](mailto:obaydaba96@gmail.com)
 - 💼 LinkedIn: [Obay Daba](https://www.linkedin.com/in/obay-daba/)
 
 ## Open for Collaboration
