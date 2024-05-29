@@ -11,12 +11,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with over 5 yea
 ## Skills
 
 - **Programming Languages**: Python, Golang.
-- **Technologies**: Docker, PostgreSQL, AWS.
+- **Technologies**: Docker, PostgreSQL, ETLs.
+- **Cloud Platform**: AWS.
 - **Other Skills:** RESTful API design, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), Microservices architecture.
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BayooG&show_icons=true&hide_title=true&count_private=true&hide=contribs)
 
 ## Connect with Me
 
@@ -25,8 +22,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with over 5 yea
 
 ## Open for Collaboration
 
-I'm always open to collaboration and learning from others. If you have an interesting project or idea, feel free to reach out!
+I'm always open to collaboration and learning from others. Feel free to reach out if you have an interesting project or idea!
 
 ## Acknowledgements
 
-Feel free to acknowledge any organizations, communities, or people you want to give credit to.
+Please feel free to acknowledge any organizations, communities, or people you'd like to give credit to.
