@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with over 5 yea
 ## About Me
 
 - 🌍 Location: Berlin, Germany
-- 💼 Currently working as a Software Engineer at [priceloop](https://priceloop.ai).
+- 💼 Currently working as a Software Engineer
 - 🎓 Education: B.Sc. in Information Technology Engineering, Damascus University.
 
 ## Skills
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with over 5 yea
 ## Connect with Me
 
 - 📧 [Email](mailto:obaydaba96@gmail.com)
-- 💼 LinkedIn: [Obay Daba](https://www.linkedin.com/in/obay-daba/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/obay-daba/)
 
 ## Open for Collaboration
 
